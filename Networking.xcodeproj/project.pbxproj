@@ -12,6 +12,7 @@
 		A8F214492201D0AD00519632 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8F214472201D0AD00519632 /* Main.storyboard */; };
 		A8F2144B2201D0AE00519632 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8F2144A2201D0AE00519632 /* Assets.xcassets */; };
 		A8F2144E2201D0AE00519632 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8F2144C2201D0AE00519632 /* LaunchScreen.storyboard */; };
+		A8F214562201D90700519632 /* Screen Shot 2019-01-30 at 7.05.35 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = A8F214552201D90600519632 /* Screen Shot 2019-01-30 at 7.05.35 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A8F2144A2201D0AE00519632 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A8F2144D2201D0AE00519632 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A8F2144F2201D0AE00519632 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8F214552201D90600519632 /* Screen Shot 2019-01-30 at 7.05.35 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2019-01-30 at 7.05.35 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		A8F214372201D0AC00519632 = {
 			isa = PBXGroup;
 			children = (
+				A8F214552201D90600519632 /* Screen Shot 2019-01-30 at 7.05.35 PM.png */,
 				A8F214422201D0AC00519632 /* Networking */,
 				A8F214412201D0AC00519632 /* Products */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8F2144E2201D0AE00519632 /* LaunchScreen.storyboard in Resources */,
+				A8F214562201D90700519632 /* Screen Shot 2019-01-30 at 7.05.35 PM.png in Resources */,
 				A8F2144B2201D0AE00519632 /* Assets.xcassets in Resources */,
 				A8F214492201D0AD00519632 /* Main.storyboard in Resources */,
 			);
