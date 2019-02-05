@@ -90,7 +90,7 @@ class ViewController: UIViewController {
                         
                         DispatchQueue.main.async {
                             self.lableResponse.text = ""
-                           //  self.lableResponse.text = actor.title
+                            self.lableResponse.text = "\(arrayData.count)"
 
                         }
                      
